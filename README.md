@@ -37,7 +37,7 @@ The eight HTML training groups establish the foundation for building and underst
 | 3 | HTML Lists | Completed |
 | 4 | HTML Document Structure | Completed |
 | 5 | Links, Images, and Relative Paths | Completed |
-| 6 | Semantic HTML and Page Layout | Upcoming |
+| 6 | Semantic HTML and Page Layout | Completed |
 | 7 | HTML Tables | Planned |
 | 8 | HTML Forms and Input Elements | Planned |
 
