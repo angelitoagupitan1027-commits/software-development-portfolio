@@ -2,213 +2,1284 @@
 
 ## About This Repository
 
-This repository documents my learning journey toward becoming a **Full-Stack Software Engineer**. It contains hands-on coding exercises, learning progress records, assessment evidence, and practical projects that demonstrate my development as a software engineer.
+This repository documents my structured journey toward becoming a **Full-Stack Software Engineer**.
 
-My goal is to build strong technical foundations, solve problems independently, understand how applications work, and develop reliable, secure, and maintainable software.
+It contains:
 
-## Career Goal
+- Hands-on coding exercises
+- Learning progress records
+- Guided Practice results
+- Competency assessments
+- Debugging and testing evidence
+- Software development projects
+- Technical documentation
+- Git and GitHub work
+- Project architecture and implementation evidence
 
-My long-term career goal is to become a **Full-Stack Software Engineer** capable of designing, developing, testing, debugging, securing, and maintaining complete software applications.
-
-My learning roadmap covers:
-
-- **Frontend Development:** HTML, CSS, JavaScript, responsive design, accessibility, and user interfaces.
-- **Backend Development:** C#, .NET, ASP.NET Core, REST APIs, authentication, authorization, and application architecture.
-- **Database Development:** SQL, relational database design, data integrity, queries, and performance fundamentals.
-- **Software Engineering:** Object-oriented programming, data structures and algorithms, clean code, design principles, testing, debugging, version control, and software architecture.
-- **Application Security:** Secure coding, input validation, identity management, access control, and data protection.
-- **Full-Stack Integration:** Connecting frontend interfaces, backend services, and databases to build complete applications.
-- **Advanced Development:** Deployment, cloud fundamentals, maintainability, performance, and other advanced engineering practices.
-
-These are learning objectives, not claims that every skill has already been mastered.
+The goal is not simply to complete courses or collect certificates. The goal is to develop the ability to understand requirements, design solutions, write code independently, test and debug software, explain technical decisions, and build reliable, maintainable, and secure applications.
 
 ---
 
-## Learning Roadmap
+# Career Goal
 
-### Phase 1 — HTML Foundations and Structure
+## Immediate Career Target
 
-The eight HTML training groups establish the foundation for building and understanding web pages.
+**Software Developer / Junior Software Engineer / Associate Software Engineer**
 
-| Group | Topic | Status |
-|---|---|---|
-| 1 | HTML Foundations | Completed |
-| 2 | Text Formatting | Completed |
-| 3 | HTML Lists | Completed |
-| 4 | HTML Document Structure | Completed |
-| 5 | Links, Images, and Relative Paths | Completed |
-| 6 | Semantic HTML and Page Layout | Completed |
-| 7 | HTML Tables | Planned |
-| 8 | HTML Forms and Input Elements | Planned |
+The immediate objective is to transition from semiconductor manufacturing engineering into professional software development.
 
-*Group topics and statuses will be updated as training progresses.*
+## Long-Term Career Goal
 
-### Phase 2 — CSS and Responsive Web Design
+**Full-Stack Software Engineer**
 
-- CSS syntax, selectors, and specificity
-- Colors, typography, backgrounds, borders, and spacing
-- Box model and layout fundamentals
-- Flexbox and CSS Grid
-- Responsive design and media queries
-- Reusable styling and maintainable CSS
-- Accessibility and responsive user interfaces
-- Practical webpage styling projects
+The long-term objective is to become capable of designing, developing, testing, debugging, securing, deploying, and maintaining complete software systems.
 
-**Status:** Planned
+The roadmap combines:
 
-### Phase 3 — JavaScript and Frontend Programming
+- Frontend Development
+- Backend Development
+- Database Development
+- Software Engineering
+- Application Security
+- Testing and Debugging
+- System and Application Architecture
+- Deployment and Production Practices
+- Practical Portfolio Projects
 
-- Variables, data types, operators, and expressions
-- Conditions, loops, and functions
-- Arrays, objects, and data manipulation
-- DOM selection and manipulation
-- Events and form validation
-- Error handling and debugging
-- Asynchronous programming, promises, and `async`/`await`
-- HTTP requests and API integration
-- Modular and maintainable JavaScript
-- Frontend practical projects
-
-**Status:** Planned
-
-### Phase 4 — C# Programming and Object-Oriented Programming
-
-- C# syntax, variables, data types, and operators
-- Conditions, loops, and methods
-- Arrays, collections, strings, and date/time handling
-- Classes, objects, properties, and constructors
-- Encapsulation, inheritance, polymorphism, and abstraction
-- Interfaces, enums, structs, and value versus reference types
-- Exception handling and file operations
-- Generics, delegates, events, and LINQ
-- Debugging, refactoring, and clean code
-- Data structures, algorithms, and problem-solving
-- Practical programming exercises and competency assessments
-
-**Status:** In progress — follow the C# training record for the verified current milestone.
-
-### Phase 5 — SQL and Database Development
-
-- Relational database concepts and data modeling
-- Tables, primary keys, and foreign keys
-- Data types and constraints
-- `SELECT`, filtering, sorting, and aggregation
-- `INSERT`, `UPDATE`, and `DELETE`
-- Joins, subqueries, and common table expressions
-- Normalization and database relationships
-- Transactions and data integrity
-- Indexes and query performance fundamentals
-- Parameterized queries and SQL injection prevention
-- Practical database exercises
-
-**Status:** Planned
-
-### Phase 6 — Backend Development with .NET
-
-- .NET fundamentals and application structure
-- ASP.NET Core fundamentals
-- REST API design and implementation
-- HTTP methods, status codes, and request/response handling
-- Dependency injection and configuration
-- DTOs, validation, and error handling
-- Database integration and Entity Framework Core
-- Authentication and authorization
-- Logging, testing, and debugging
-- API documentation and maintainability
-- Backend practical projects
-
-**Status:** Planned
-
-### Phase 7 — Full-Stack Integration and Application Security
-
-- Connecting frontend applications to backend APIs
-- Sending and receiving JSON data
-- Integrating backend services with databases
-- Handling loading states, errors, and invalid responses
-- Authentication flows and secure session/token handling
-- Authorization and role-based access control
-- Server-side validation and trusted data boundaries
-- CORS, secrets management, and secure configuration
-- Preventing common web application vulnerabilities
-- Integration testing and end-to-end testing
-- Troubleshooting across frontend, backend, and database layers
-
-**Status:** Planned
-
-### Phase 8 — Software Engineering, Architecture, and Quality
-
-- Git and GitHub workflows
-- Data structures and algorithms
-- SOLID principles and separation of concerns
-- Loose coupling, high cohesion, and dependency injection
-- Clean code, refactoring, and maintainability
-- Unit testing, integration testing, and test design
-- Debugging, edge cases, and failure handling
-- Common design patterns and architectural fundamentals
-- Performance, reliability, and observability fundamentals
-- Code reviews and technical documentation
-
-**Status:** Planned
-
-### Phase 9 — Deployment and Advanced Development
-
-- Application configuration for different environments
-- Build and deployment fundamentals
-- Hosting web applications and APIs
-- Environment variables and secret management
-- Database deployment and backup fundamentals
-- CI/CD concepts and automated testing workflows
-- Cloud fundamentals
-- Monitoring, logging, and troubleshooting deployed applications
-- Performance, scalability, and reliability fundamentals
-
-**Status:** Planned
-
-### Phase 10 — Integrated Portfolio Projects
-
-Build and document practical applications that demonstrate the ability to combine frontend, backend, databases, testing, and security.
-
-Planned project work includes:
-
-- Small applications that demonstrate individual programming concepts
-- Database-driven applications
-- Applications that consume and expose APIs
-- Full-stack applications with authentication and authorization
-- An integrated small-business management and business intelligence platform
-- Project documentation, testing evidence, and technical explanations
-
-**Status:** Planned — projects will be marked completed only after the relevant implementation and testing have been verified.
+Roadmap inclusion does not mean mastery. Skills are marked according to actual learning, practice, assessment, and project evidence.
 
 ---
 
-## Learning Records and Assessment Evidence
+# Training Philosophy
 
-Learning progress and assessment evidence are maintained separately from this overview.
+The training follows several principles:
 
-- [HTML Training Progress Record](learning-records/html-progress.md)
-- [HTML Assessment Evidence](learning-records/html-assessment-evidence.md)
-
-Assessment scores will be recorded only when supported by available training evidence. Practice milestones, completion status, and numeric assessment results will remain distinct.
-
-## Development Principles
-
-- Understand code rather than relying on memorization.
-- Learn concepts before applying them in exercises.
-- Develop independent coding, debugging, and problem-solving skills.
-- Explain what the code does, why it is used, and how it works.
-- Write readable, maintainable, and testable code.
-- Apply security principles throughout development.
-- Test expected behavior, edge cases, and failure scenarios.
-- Document progress honestly and improve through feedback and iteration.
-
-## Current Focus
-
-My current focus is completing the eight-group HTML foundation track, beginning with the remaining semantic HTML, tables, and forms topics. Other learning tracks will progress according to their own training records and competency assessments.
-
-## Portfolio Status
-
-This portfolio is a work in progress. Roadmap topics describe learning objectives; completed status, assessment results, and project claims will be updated only when supported by actual practice and evidence.
+1. **Understand before memorizing.**
+2. **Learn concepts before attempting difficult implementation.**
+3. **Practice through progressively harder problems.**
+4. **Use debugging as a learning tool.**
+5. **Explain what the code does, why it is used, and how it works.**
+6. **Test normal behavior, invalid input, boundaries, and edge cases.**
+7. **Do not mark failed work as passed.**
+8. **Use remediation and retesting when necessary.**
+9. **Build practical projects instead of relying only on certificates.**
+10. **Use AI as a development and learning aid while still understanding, verifying, testing, and explaining the resulting code.**
 
 ---
 
-*The portfolio documents self-directed learning and practical development. It is not an official academic qualification or third-party certification.*
+# Frontend Development — Levels 1–7
+
+The frontend curriculum is organized into **seven levels**, progressing from web fundamentals to production frontend engineering.
+
+---
+
+## LEVEL 1 — Web Fundamentals
+
+### Phase 1 — HTML Foundations
+
+### HTML Topic 1 — HTML Foundations
+
+Topics include:
+
+- Purpose of HTML
+- Elements and tags
+- Attributes
+- Opening and closing tags
+- Nesting
+- Parent-child relationships
+- Basic HTML document structure
+- Browser rendering
+
+**Status:** Completed training milestone
+
+---
+
+### HTML Topic 2 — Text Formatting
+
+Topics include:
+
+- Headings
+- Paragraphs
+- Line breaks
+- Horizontal/thematic separation
+- Text emphasis
+- Strong importance
+- Semantic text elements
+- Appropriate use of text elements
+
+**Status:** Completed training milestone
+
+---
+
+### HTML Topic 3 — HTML Lists
+
+Topics include:
+
+- Ordered lists
+- Unordered lists
+- List items
+- Nested lists
+- Choosing appropriate list structures
+
+**Status:** Completed training milestone
+
+---
+
+### HTML Topic 4 — HTML Document Structure
+
+Topics include:
+
+- `<!DOCTYPE html>`
+- `<html>`
+- `<head>`
+- `<body>`
+- Page title
+- Metadata fundamentals
+- Document hierarchy
+- Proper indentation
+
+**Status:** Completed training milestone
+
+---
+
+### HTML Topic 5 — Links, Images, and File Paths
+
+Topics include:
+
+- `<a>`
+- `href`
+- `<img>`
+- `src`
+- `alt`
+- Image dimensions
+- Absolute paths
+- Relative paths
+- Parent-directory navigation using `../`
+- Nested directory paths
+- File path resolution
+
+**Status:** Completed training milestone
+
+---
+
+### HTML Topic 6 — Semantic HTML and Page Layout
+
+Topics include:
+
+- Semantic HTML
+- `<header>`
+- `<nav>`
+- `<main>`
+- `<section>`
+- `<article>`
+- `<aside>`
+- `<footer>`
+- `<div>`
+- Page regions
+- Parent-child relationships
+- Basic accessibility principles
+
+**Status:** In Progress
+
+---
+
+### HTML Topic 7 — HTML Tables
+
+Topics include:
+
+- `<table>`
+- `<tr>`
+- `<th>`
+- `<td>`
+- `<thead>`
+- `<tbody>`
+- `<tfoot>`
+- Table relationships
+- `colspan`
+- `rowspan`
+- Table captions
+- Accessible tables
+
+**Status:** Planned
+
+---
+
+### HTML Topic 8 — HTML Forms and Input Elements
+
+Topics include:
+
+- `<form>`
+- `<label>`
+- `<input>`
+- Text inputs
+- Email inputs
+- Password inputs
+- Number inputs
+- Checkboxes
+- Radio buttons
+- Submit controls
+- `<textarea>`
+- `<select>`
+- `<option>`
+- `name`
+- `value`
+- `placeholder`
+- `required`
+- Form validation
+- Accessible forms
+
+**Status:** Planned
+
+---
+
+### CSS Foundation
+
+Topics include:
+
+- CSS syntax
+- Selectors
+- Specificity
+- Cascade
+- Inheritance
+- Colors
+- Typography
+- Backgrounds
+- Borders
+- Box model
+- Margin
+- Padding
+- Width and height
+- `box-sizing`
+- Display
+- Positioning
+- Flexbox
+- CSS Grid
+- Media queries
+- Responsive design
+- Maintainable CSS
+- Accessibility
+
+**Status:** Planned
+
+---
+
+### JavaScript Fundamentals
+
+Topics include:
+
+- Variables
+- Constants
+- Data types
+- Operators
+- Expressions
+- Conditions
+- Loops
+- Functions
+- Arrays
+- Objects
+- Basic DOM interaction
+- Browser console
+- Basic event handling
+
+**Status:** Planned
+
+---
+
+## LEVEL 2 — Modern JavaScript
+
+### Topics
+
+- DOM selection
+- DOM manipulation
+- Creating and removing elements
+- Attributes and classes
+- Events
+- Event listeners
+- Event objects
+- Event bubbling
+- Event delegation
+- Form handling
+- Client-side validation
+- Error messages
+- Template literals
+- Destructuring
+- Spread syntax
+- Rest parameters
+- Optional chaining
+- Nullish coalescing
+- Array methods
+- Modules
+- `import`
+- `export`
+- Promises
+- `async`
+- `await`
+- `try`
+- `catch`
+- Fetch API
+- JSON
+- HTTP requests
+- HTTP status handling
+- Loading states
+- Error states
+- Browser developer tools
+- Debugging
+
+**Status:** Planned
+
+---
+
+## LEVEL 3 — Professional JavaScript
+
+### Topics
+
+- Advanced functions
+- First-class functions
+- Higher-order functions
+- Arrow functions
+- Scope
+- Lexical scope
+- Closures
+- Objects
+- Object references
+- Prototypes
+- Classes
+- Inheritance
+- Composition
+- Array transformation
+- `map`
+- `filter`
+- `reduce`
+- `find`
+- Sorting
+- Searching
+- Mutation versus non-mutating operations
+- Promise chaining
+- Event loop fundamentals
+- Asynchronous execution
+- Concurrent operations
+- Browser APIs
+- URL and query parameters
+- Browser storage fundamentals
+- Timers
+- Error propagation
+- Maintainable JavaScript
+- Problem decomposition
+- Edge cases
+- Algorithmic thinking
+
+**Status:** Planned
+
+---
+
+## LEVEL 4 — TypeScript
+
+### Topics
+
+- TypeScript fundamentals
+- Type annotations
+- Type inference
+- Primitive types
+- Arrays
+- Tuples
+- Object types
+- Interfaces
+- Type aliases
+- Union types
+- Intersection types
+- Literal types
+- Type narrowing
+- Optional properties
+- Null safety
+- Function types
+- Generics
+- Reusable typed functions
+- API response types
+- Data models
+- Modules
+- TypeScript configuration
+- Type-safe application development
+- Debugging type errors
+
+**Status:** Planned
+
+---
+
+## LEVEL 5 — React
+
+### Topics
+
+- React fundamentals
+- JSX
+- Components
+- Props
+- State
+- Events
+- Conditional rendering
+- Lists
+- Forms
+- Controlled inputs
+- `useState`
+- `useEffect`
+- Effects and dependencies
+- Cleanup
+- Component composition
+- Reusable components
+- API integration
+- Loading states
+- Error states
+- Routing
+- Navigation
+- Shared state
+- Context fundamentals
+- Component testing
+- Integration testing
+- Accessibility
+- Responsive React applications
+
+**Status:** Planned
+
+---
+
+## LEVEL 6 — Frontend Engineering
+
+### Topics
+
+### Application Architecture
+
+- Feature-based organization
+- Separation of concerns
+- UI and business logic separation
+- Data access organization
+- Reusable components
+- Shared utilities
+- Module boundaries
+
+### State Management
+
+- Local state
+- Shared state
+- Derived state
+- State synchronization
+- State management strategies
+
+### API Architecture
+
+- API clients
+- Request handling
+- Response handling
+- Loading states
+- Error handling
+- Request cancellation
+- Stale data considerations
+
+### Authentication and Authorization
+
+- Login flows
+- Logout flows
+- Session concepts
+- Token concepts
+- Protected routes
+- Frontend authorization concepts
+- Server-side authorization boundaries
+
+### Testing
+
+- Unit testing
+- Component testing
+- Integration testing
+- User interaction testing
+- Regression testing
+- Edge-case testing
+
+### Accessibility
+
+- Semantic HTML
+- Keyboard navigation
+- Focus management
+- Accessible labels
+- Screen-reader considerations
+- Accessible forms
+
+### Performance
+
+- Rendering performance
+- Loading performance
+- Bundle size
+- Image optimization
+- Avoiding unnecessary work
+- Performance measurement
+
+### Frontend Security
+
+- Untrusted input
+- XSS fundamentals
+- Client-side secrets
+- Secure API usage
+- Trust boundaries
+
+### Responsive Design
+
+- Mobile-first design
+- Flexible layouts
+- Responsive components
+- Cross-browser considerations
+- Touch interaction
+
+### Git and Collaboration
+
+- Branches
+- Commits
+- Pull requests
+- Code review
+- Merge conflict fundamentals
+- Technical documentation
+
+**Status:** Planned
+
+---
+
+## LEVEL 7 — Production Frontend
+
+### Topics
+
+### Build
+
+- Development builds
+- Production builds
+- Dependency management
+- Build errors
+- Build warnings
+
+### Environment Configuration
+
+- Development environment
+- Test environment
+- Production environment
+- Environment variables
+- Public configuration
+- Secret management
+
+### Deployment
+
+- Static hosting
+- Application deployment
+- Routing
+- Asset paths
+- Caching fundamentals
+- Rollback concepts
+
+### Quality Gates
+
+- Linting
+- Formatting
+- Type checking
+- Automated tests
+- Production build verification
+
+### CI/CD
+
+- Automated builds
+- Automated testing
+- Deployment pipelines
+- Pipeline failures
+
+### Monitoring
+
+- Browser diagnostics
+- Client-side errors
+- Logging concepts
+- Production troubleshooting
+
+### Performance and Reliability
+
+- Performance measurement
+- Asset optimization
+- Network failure handling
+- Graceful degradation
+- User feedback
+
+### Production Readiness
+
+- Accessibility checks
+- Security checks
+- Deployment checklist
+- Maintenance documentation
+
+**Status:** Planned
+
+---
+
+# Backend Development Roadmap
+
+The backend track is maintained independently from the frontend Levels 1–7.
+
+---
+
+## Backend Level 1 — C# Programming
+
+### Topics
+
+- C# syntax
+- Variables
+- Constants
+- Primitive data types
+- Type conversion
+- Overflow
+- Scope
+- Operators
+- Logical operations
+- Conditions
+- Loops
+- Methods
+- Arrays
+- Strings
+- Collections
+- `List`
+- Date and time
+- Classes
+- Objects
+- Properties
+- Constructors
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Interfaces
+- Enums
+- Structs
+- Value types
+- Reference types
+- Exception handling
+- File operations
+- Generics
+- Delegates
+- Events
+- LINQ
+- Debugging
+- Refactoring
+- Clean code
+- Data structures
+- Algorithms
+- Problem solving
+
+**Status:** In Progress
+
+**Training rule:** C# competency is evaluated separately. Completion of a course does not automatically mean mastery.
+
+---
+
+## Backend Level 2 — .NET Fundamentals
+
+### Topics
+
+- .NET
+- CLR
+- Application structure
+- Projects
+- Solutions
+- Dependencies
+- Packages
+- Configuration
+- Environment settings
+- Logging
+- Exception handling
+- Dependency Injection
+- Debugging
+- Testing
+
+**Status:** Planned
+
+---
+
+## Backend Level 3 — SQL and Database Development
+
+### Topics
+
+- Relational databases
+- Tables
+- Columns
+- Data types
+- Primary keys
+- Foreign keys
+- Constraints
+- Relationships
+- `SELECT`
+- Filtering
+- Sorting
+- Aggregation
+- `INSERT`
+- `UPDATE`
+- `DELETE`
+- Joins
+- Subqueries
+- CTEs
+- Normalization
+- Transactions
+- Data integrity
+- Indexes
+- Query performance
+- Parameterized queries
+- SQL injection prevention
+
+**Status:** Planned
+
+---
+
+## Backend Level 4 — ASP.NET Core
+
+### Topics
+
+- ASP.NET Core
+- REST APIs
+- HTTP
+- HTTP methods
+- HTTP status codes
+- Headers
+- Routing
+- Controllers
+- Endpoints
+- Request models
+- Response models
+- DTOs
+- Validation
+- Dependency Injection
+- Middleware
+- Configuration
+- Logging
+- Exception handling
+- API documentation
+- API testing
+
+**Status:** Planned
+
+---
+
+## Backend Level 5 — Entity Framework Core
+
+### Topics
+
+- EF Core
+- `DbContext`
+- Entities
+- Relationships
+- Migrations
+- CRUD
+- LINQ queries
+- Projections
+- Navigation properties
+- Async database operations
+- Transactions
+- Concurrency
+- Query performance
+- Database integration
+
+**Status:** Planned
+
+---
+
+## Backend Level 6 — Authentication, Authorization, and Security
+
+### Topics
+
+- Authentication
+- Authorization
+- Identity
+- Roles
+- Permissions
+- Password security
+- Sessions
+- Tokens
+- JWT fundamentals
+- Role-based access
+- Server-side validation
+- Secrets management
+- Secure configuration
+- Secure error handling
+- SQL injection prevention
+- Common web vulnerabilities
+
+**Status:** Planned
+
+---
+
+## Backend Level 7 — Backend Engineering
+
+### Topics
+
+- Layered architecture
+- Separation of concerns
+- Services
+- Dependency Injection
+- Testability
+- Unit testing
+- Integration testing
+- API testing
+- Logging
+- Diagnostics
+- Error handling
+- Reliability
+- Performance
+- Maintainability
+- Documentation
+- Code review
+
+**Status:** Planned
+
+---
+
+# Software Engineering Training
+
+Software engineering principles are integrated throughout the programming and project tracks.
+
+## Core Areas
+
+- Requirements analysis
+- Problem decomposition
+- Software design
+- Object-oriented programming
+- SOLID principles
+- Single Responsibility Principle
+- Separation of Concerns
+- Loose Coupling
+- High Cohesion
+- Dependency Injection
+- Maintainability
+- Testability
+- Refactoring
+- Clean Code
+- Data Structures
+- Algorithms
+- Testing
+- Debugging
+- Edge cases
+- Error handling
+- Architecture
+- Documentation
+- Version control
+
+### Verified Training Progress
+
+The Software Engineering training has progressed through **Lesson 7.5**, including:
+
+- Requirements and analysis foundations
+- Design fundamentals
+- Testing and test design
+- Debugging
+- Edge cases
+- Software design principles
+- Single Responsibility Principle
+- Separation of Concerns
+- Loose Coupling
+- High Cohesion
+- Dependency Injection
+- Maintainability
+- Testability
+- Refactoring
+
+The detailed assessment results remain in the training records and should not be replaced by a generic README claim.
+
+---
+
+# Application Security
+
+Security is treated as a cross-cutting responsibility.
+
+### Topics
+
+- Input validation
+- Output handling
+- Authentication
+- Authorization
+- Access control
+- Least privilege
+- SQL injection prevention
+- Cross-site scripting fundamentals
+- Secure session handling
+- Token security
+- Password security
+- Secrets management
+- Secure configuration
+- Error handling
+- Logging
+- Data protection
+- HTTPS fundamentals
+- Security testing
+
+**Status:** Progressive / Planned according to the relevant training phase.
+
+---
+
+# Database Development
+
+### Core Skills
+
+- Relational database design
+- Entity relationships
+- Primary keys
+- Foreign keys
+- Constraints
+- SQL queries
+- CRUD
+- Joins
+- Aggregation
+- Transactions
+- Normalization
+- Indexes
+- Performance
+- Data integrity
+- Secure database access
+
+**Status:** Planned / integrated into backend training.
+
+---
+
+# Projects
+
+The portfolio uses practical projects to demonstrate the application of the skills learned throughout the curriculum.
+
+Projects are not marked complete simply because their source code exists. Features must be implemented, tested, and verified.
+
+---
+
+## Project 1 — Integrated Small Business Management, Operations, and Business Intelligence Platform
+
+### Purpose
+
+A Philippines-first business application designed to demonstrate practical software engineering across business operations, inventory, sales, database management, and business intelligence.
+
+### Technology Baseline
+
+- C#
+- WPF
+- SQLite
+- Entity Framework Core
+
+### Established Application Flow
+
+```text
+Login
+  ↓
+Select Business
+  ↓
+Select Branch
+  ↓
+Main Dashboard
+```
+
+### Current Development Areas
+
+- Business management
+- Branch management
+- Product management
+- Physical stock control
+- Stock movement
+- Sales transactions
+- Sales-related stock deduction
+- Business reporting
+- Profit calculations
+- Business intelligence
+- Validation
+- Error handling
+- Database integrity
+- Testing
+- Security
+
+### Verified Project Progress
+
+Physical Stock Control stages 1–6 and the sales deduction test have been recorded as passed in the project training history.
+
+Additional features will be marked completed only after implementation and testing are verified.
+
+**Status:** In Progress
+
+---
+
+# Project 2 — Integrated Frontend Web Application
+
+This project evolves with the frontend curriculum rather than being rebuilt from zero after every technology.
+
+### Development Path
+
+```text
+HTML
+ ↓
+CSS
+ ↓
+JavaScript
+ ↓
+Modern JavaScript
+ ↓
+TypeScript
+ ↓
+React
+ ↓
+Frontend Engineering
+ ↓
+Production Frontend
+```
+
+### Development Objectives
+
+- Semantic HTML
+- Accessible page structure
+- Responsive CSS
+- JavaScript interaction
+- DOM manipulation
+- Form validation
+- API integration
+- Asynchronous programming
+- Type-safe development
+- React components
+- State management
+- Testing
+- Accessibility
+- Security
+- Performance
+- Deployment
+- Production debugging
+
+### Status
+
+**In Progress — developed progressively as the frontend training advances.**
+
+---
+
+# Project 3 — OEE Monitoring Project
+
+### Domain
+
+Semiconductor Manufacturing / Equipment Engineering
+
+### Objective
+
+Develop a software-based solution for monitoring and analyzing Overall Equipment Effectiveness (OEE).
+
+### Planned Areas
+
+- Availability
+- Performance
+- Quality
+- OEE calculation
+- Equipment downtime
+- Production performance
+- Data validation
+- Dashboard/reporting
+- Historical trends
+- Test cases
+- Technical documentation
+
+### Important Principle
+
+OEE calculations must be based on documented business rules and validated against expected results.
+
+**Status:** Planned / to be implemented and verified.
+
+---
+
+# Project 4 — Wafer ID Check and Validation Project
+
+### Domain
+
+Semiconductor Manufacturing / Wafer Traceability
+
+### Objective
+
+Develop a software workflow for validating wafer identification information according to defined manufacturing requirements.
+
+### Planned Areas
+
+- Wafer ID input
+- Wafer ID validation
+- Format validation
+- Invalid ID handling
+- Missing ID handling
+- Duplicate detection where required
+- Error messages
+- Validation rules
+- Test cases
+- Traceability records where required
+
+### Important Principle
+
+The final implementation must be based on documented requirements rather than assumptions about the manufacturing process.
+
+**Status:** Planned / to be implemented and verified.
+
+---
+
+# GitHub and Portfolio Evidence
+
+The GitHub repository is intended to provide evidence of actual development work.
+
+Evidence may include:
+
+- Source code
+- Commit history
+- README documentation
+- Assessment records
+- Test cases
+- Debugging records
+- Project screenshots
+- Architecture documentation
+- Database scripts
+- API documentation
+- Deployment information
+- Project demonstrations
+
+Assessment and project claims will only be marked as completed when supported by actual evidence.
+
+---
+
+# Learning Records
+
+Detailed records are maintained separately from this README.
+
+Recommended record structure:
+
+```text
+learning-records/
+│
+├── html-progress.md
+├── html-assessment-evidence.md
+├── css-progress.md
+├── javascript-progress.md
+├── typescript-progress.md
+├── react-progress.md
+├── frontend-levels-progress.md
+├── csharp-progress.md
+├── sql-progress.md
+├── dotnet-backend-progress.md
+├── software-engineering-progress.md
+├── project-1-progress.md
+├── frontend-project-progress.md
+├── oee-project-progress.md
+└── wafer-id-project-progress.md
+```
+
+These files should only be linked after they actually exist in the repository.
+
+---
+
+# Assessment and Progress Rules
+
+The following statuses are used throughout the portfolio:
+
+| Status | Meaning |
+|---|---|
+| **Planned** | Not yet started |
+| **In Progress** | Currently being learned or implemented |
+| **Practice Complete** | Required practice completed |
+| **Assessment Passed** | Required assessment passed with evidence |
+| **Completed** | Required learning and assessment criteria completed |
+| **Needs Review** | Previous work requires verification |
+| **Retest Required** | Required competency was not yet demonstrated |
+
+### Rules
+
+- Completing a lesson is not automatically mastery.
+- Completing a course is not automatically professional competency.
+- Certificates support learning evidence but do not replace practical assessment.
+- Guided Practice is used for learning and feedback.
+- Formal assessments determine competency at defined checkpoints.
+- Failed attempts are not recorded as passes.
+- Retests and remediation are preserved honestly.
+- Project features are marked complete only after implementation and verification.
+- Skills listed on the CV must be supported by actual training or project evidence.
+- Frontend and backend progress are tracked independently.
+
+---
+
+# Professional Experience
+
+## UTAC Manufacturing Services Pte Ltd — Singapore
+
+### Associate Engineer 2 — Wafer Sort
+
+**February 2025 – Present**
+
+Relevant professional experience includes:
+
+- Preventive maintenance of semiconductor manufacturing equipment.
+- Equipment calibration.
+- Technical troubleshooting.
+- Equipment repair and corrective actions.
+- Investigation of abnormal equipment behavior.
+- Supporting equipment reliability.
+- Following structured manufacturing procedures.
+- Working with wafer transfer and scanning equipment.
+- Applying systematic technical problem-solving.
+
+This manufacturing experience provides additional domain knowledge for software projects involving equipment monitoring, manufacturing workflows, validation, and operational systems.
+
+---
+
+# Career Direction
+
+The intended career progression is:
+
+```text
+Semiconductor Associate Engineer
+          ↓
+Software Developer / Junior Software Engineer
+          ↓
+Software Engineer
+          ↓
+Full-Stack Software Engineer
+          ↓
+Senior Software Engineer
+```
+
+The first software role is the immediate objective.
+
+Senior-level progression is a long-term career goal and will depend on actual professional experience, independent engineering ability, system design capability, technical judgment, and continued development.
+
+---
+
+# Development Philosophy
+
+The objective of this portfolio is not to appear experienced without evidence.
+
+The objective is to **build the evidence**.
+
+That means:
+
+```text
+Learn
+  ↓
+Understand
+  ↓
+Practice
+  ↓
+Make mistakes
+  ↓
+Debug
+  ↓
+Remediate
+  ↓
+Assess
+  ↓
+Pass
+  ↓
+Build
+  ↓
+Test
+  ↓
+Document
+  ↓
+Demonstrate
+```
+
+Every major skill should eventually have practical evidence behind it.
+
+---
+
+# Portfolio Status
+
+This repository is a **work in progress**.
+
+The roadmap represents the complete learning direction. Individual skills, assessments, certificates, projects, and technologies will be marked according to their actual verified status.
+
+The ultimate goal is to demonstrate that I can move beyond learning concepts and independently contribute to the development, testing, debugging, maintenance, and improvement of real software systems.
+
+**Target:** Become a capable, evidence-backed Software Developer and progress toward Full-Stack Software Engineering.
