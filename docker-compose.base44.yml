@@ -1,0 +1,80 @@
+name: marco-ai
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: on-failure
+    environment:
+      POSTGRES_USER: marco
+      POSTGRES_PASSWORD: marco_dev_pw
+      POSTGRES_DB: marco
+    volumes:
+      - marco_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U marco -d marco"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+      start_period: 10s
+
+  api:
+    image: node:22-bookworm-slim
+    restart: on-failure
+    working_dir: /workspace/server
+    environment:
+      - NODE_ENV=development
+      - PORT=8000
+      - PGHOST=db
+      - PGPORT=5432
+      - PGUSER=marco
+      - PGPASSWORD=marco_dev_pw
+      - PGDATABASE=marco
+      - BASE44_PREVIEW_MODE
+      - OPENAI_MODEL=gpt-4o-mini
+    # Platform-managed secrets (never committed). Last entry so dashboard values win.
+    env_file:
+      - path: /run/base44/app.env
+        required: false
+    volumes:
+      - ${BASE44_PROJECT_ROOT}:/workspace
+      - marco_api_modules:/workspace/server/node_modules
+    command: ["sh", "-ec", "npm install --no-audit --no-fund && exec node --watch index.js"]
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "node -e \"fetch('http://127.0.0.1:8000/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))\""]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+      start_period: 90s
+
+  web:
+    image: node:22-bookworm-slim
+    restart: on-failure
+    working_dir: /workspace/web
+    environment:
+      - BASE44_PREVIEW_MODE
+      - BASE44_SANDBOX_HOST_DOMAIN
+      - __VITE_ADDITIONAL_SERVER_ALLOWED_HOSTS
+      - API_PROXY_TARGET=http://api:8000
+    volumes:
+      - ${BASE44_PROJECT_ROOT}:/workspace
+      - marco_web_modules:/workspace/web/node_modules
+    command: ["sh", "-ec", "npm install --no-audit --no-fund && exec npx vite --host 0.0.0.0 --port 5173"]
+    ports:
+      - "3000:5173"
+    depends_on:
+      api:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "node -e \"fetch('http://127.0.0.1:5173/').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))\""]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+      start_period: 90s
+
+volumes:
+  marco_pgdata:
+  marco_api_modules:
+  marco_web_modules:

@@ -1,0 +1,16 @@
+{
+  "name": "marco-ai-server",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "MARCO AI Trading Business Management System - API",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  }
+}
